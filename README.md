@@ -1,1 +1,0 @@
-# icon-monstr-ckeditor-plugin
