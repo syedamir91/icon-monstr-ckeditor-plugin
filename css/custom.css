@@ -1,0 +1,22 @@
+ul.icon_monstr {
+	max-height: 400px;
+	overflow-y: scroll;
+}
+ul.icon_monstr li {
+	list-style-type: none;
+	float: left;
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid #D3D3D3;
+}
+ul.icon_monstr li:hover, ul.icon_monstr li span:hover {
+	background: #CCC;
+	cursor: pointer;
+}
+ul.icon_monstr li span.im {
+    display: inline-block;
+    font: normal normal normal 24px/1 'iconmonstr-iconic-font' !important;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
